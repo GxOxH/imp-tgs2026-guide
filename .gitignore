@@ -1,0 +1,8 @@
+node_modules/
+*.log
+
+# 復号前の平文はリポジトリに置かない（公開リポジトリのため）
+TGS2026_guide.html
+
+# 公式配布物は再配布しない
+TGS_WEB_MAP_20260914.pdf
